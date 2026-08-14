@@ -1,0 +1,7 @@
+pdf-inspector
+pdfplumber
+rapidocr_onnxruntime
+onnxruntime
+pikepdf
+pillow
+numpy
